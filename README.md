@@ -3,14 +3,14 @@
 
 
 
-Team leader : Aarthi.k
+Team leader : Aarthi.K
 
 
 Team member 1: Aarthi.K
 
 
-Team member 2: Bavya.k
+Team member 2: Bavya.K
 
 
 
-Team member 3: stany.P
+Team member 3: Stany.P
